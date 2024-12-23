@@ -15,9 +15,14 @@
 > - [ゆる民俗学ラジオ](https://yurugakuto.com/minzoku)
 > - [ゆる音楽学ラジオ](https://yurugakuto.com/ongaku)
 
+> [!TIP]
+> ゆる言語学ラジオ・ゆるコンピュータ科学ラジオでは類似の活動がある。
+> 
+> [mtakagishi『ゆる言語学ラジオ 参考文献』(2023)](https://yurugengo.mtakagishi.com/reference/#google_vignette)
+
 ### 利用者向け情報
 
-- ゆる民俗学ラジオ・ゆる音楽学ラジオ参考文献一覧作業 (to be published)
+- [ゆる民俗学ラジオ・ゆる音楽学ラジオ参考文献一覧作業](https://qiita.com/teion/items/92a6e7c0a8cc3833b727)
 - [利用者向けREADME](https://github.com/teionburns/yuru-reference/blob/main/readers/README.md)
 
 ### 編集者向け情報

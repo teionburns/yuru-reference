@@ -1,9 +1,17 @@
-# ゆる民俗学ラジオ・ゆる音楽学ラジオ参考文献一覧
+# ゆる民俗学・音楽学ラジオ参考文献一覧データベース
 
 - [ゆる民俗学ラジオ参考文献一覧](https://docs.google.com/spreadsheets/d/1VD_IeGuFJMMIn4TWTwWmu7EZXFUDUCNVL_RxVCoXTi0/edit#gid=0)
 - [ゆる音楽学ラジオ参考文献一覧](https://docs.google.com/spreadsheets/d/1BBnRDZjznC0IsGdwzJzfae6-uLb8VZTUZtW4eLJT72U/edit?gid=0#gid=0)
+- [ゆる民俗・音楽学ラジオミーム](https://docs.google.com/spreadsheets/d/1n9-SPtC8H_7y670WLHjeHaJpzStXsiEhS9nsDWijbYs/edit?gid=0#gid=0)
+- ゆる民音Discord限定公開動画概要
 
-## データベースの構成
+> [!TIP]
+> 『ゆる民音Discord限定公開動画概要』URLはゆる民俗学ラジオ・ゆる音楽学ラジオサポーター限定コミュニティDiscord『ゆる民俗学&ゆる音楽学』にて公開。
+> 以下のいずれからも同一のサーバーへ登録可能。
+> - [ゆる民俗学ラジオ](https://yurugakuto.com/minzoku)
+> - [ゆる音楽学ラジオ](https://yurugakuto.com/ongaku)
+
+## 主要データベースの構成
 
 ゆる民俗学ラジオ参考文献一覧, ゆる音楽学ラジオ参考文献一覧はそれぞれ以下のテーブルから構成される。
 
@@ -55,6 +63,22 @@
 - **論文傾向**
 - **骨太度**
 
-> [!Note]
+> [!NOTE]
 > 文献は1本の動画内で複数回言及があっても表では動画1つにつき1回まで。
 > 原則として言及の順番に並べるが、動画の概要欄にて出典が明示されているものは、各動画ごとに先頭に配置。
+
+## ゆる民俗・音楽学ラジオミーム
+
+ゆる民俗学ラジオ・ゆる音楽学ラジオで固有に使われる言葉をまとめる。
+主に
+
+- 用語
+- 初出リンク
+- 意味
+
+を掲載。
+編集権限を公開。
+
+## Discord限定動画
+
+メインの参考文献一覧における「動画一覧」シートと同様にして、サポーターコミュニティDiscordサーバー『ゆる民俗学&音楽学』の「#サポーター特典」に投稿された動画の内容を掲載。

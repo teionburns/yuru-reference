@@ -2,7 +2,15 @@
 
 | 年月日 | 変更 |
 | - | - |
-| 2024/12/24 | 本記事アップロード |
+| 2024/12/24 | 初版とする |
+
+# 各種リンク
+
+- [ゆる民俗学ラジオ参考文献一覧](https://docs.google.com/spreadsheets/u/5/d/1VD_IeGuFJMMIn4TWTwWmu7EZXFUDUCNVL_RxVCoXTi0/edit?usp=drive_web&ouid=109323580524190072266)
+- [ゆる音楽学ラジオ参考文献一覧](https://docs.google.com/spreadsheets/u/5/d/1VD_IeGuFJMMIn4TWTwWmu7EZXFUDUCNVL_RxVCoXTi0/edit?usp=drive_web&ouid=109323580524190072266)
+- [ゆる民俗・音楽学ラジオミーム](https://docs.google.com/spreadsheets/u/5/d/1n9-SPtC8H_7y670WLHjeHaJpzStXsiEhS9nsDWijbYs/edit?usp=drive_web&ouid=109323580524190072266)
+- [ゆる民音Discord限定公開動画概要](https://docs.google.com/spreadsheets/d/150X7KNl4Sztl6OkunzBU1eMQaRe-nUnWDJYRx1GqmUg/edit?gid=0#gid=0)
+- [ゆる学徒ラジオ参考文献一覧テーブル定義書](https://docs.google.com/spreadsheets/d/1VafUNmZNktQNKKzFyc_EKnspvCKezI8mF3B8Uu4JWjw/edit?gid=1625151105#gid=1625151105)
 
 # 用語の定義
 
@@ -101,13 +109,19 @@
 ## その他webサイト
 
 - 慣習として、ポケモンは個体ごとにポケモンずかん (https://zukan.pokemon.co.jp) を引く
+- 下記のデータベースに掲載されている情報は
+  1. 原典
+  2. データベース
+の順位で掲載する。
+  - [怪異・妖怪伝承データベース](https://www.nichibun.ac.jp/YoukaiDB/)
+  - [俗信データベース](https://www.rekihaku.ac.jp/doc/zoku.html)
 
 ## 施設
 
-- 神社仏閣は記載
-- 鉄道駅は掲載しない
+- 神社仏閣は採用
+- 鉄道駅は採用しない
   - 文化財としての駅舎は検討の余地あり
-- 大学は記載
+- 大学は採用
 
 ## 商品
 
@@ -262,11 +276,3 @@
 | 出典明示度 | 関数制御のため上段をコピー&ペースト |
 | 論文傾向 | 関数制御のため上段をコピー&ペースト |
 | 骨太度 | 関数制御のため上段をコピー&ペースト |
-
-# 各種リンク
-
-- [ゆる民俗学ラジオ参考文献一覧](https://docs.google.com/spreadsheets/u/5/d/1VD_IeGuFJMMIn4TWTwWmu7EZXFUDUCNVL_RxVCoXTi0/edit?usp=drive_web&ouid=109323580524190072266)
-- [ゆる音楽学ラジオ参考文献一覧](https://docs.google.com/spreadsheets/u/5/d/1VD_IeGuFJMMIn4TWTwWmu7EZXFUDUCNVL_RxVCoXTi0/edit?usp=drive_web&ouid=109323580524190072266)
-- [ゆる民俗・音楽学ラジオミーム](https://docs.google.com/spreadsheets/u/5/d/1n9-SPtC8H_7y670WLHjeHaJpzStXsiEhS9nsDWijbYs/edit?usp=drive_web&ouid=109323580524190072266)
-- [ゆる民音Discord限定公開動画概要](https://docs.google.com/spreadsheets/d/150X7KNl4Sztl6OkunzBU1eMQaRe-nUnWDJYRx1GqmUg/edit?gid=0#gid=0)
-- [ゆる学徒ラジオ参考文献一覧テーブル定義書](https://docs.google.com/spreadsheets/d/1VafUNmZNktQNKKzFyc_EKnspvCKezI8mF3B8Uu4JWjw/edit?gid=1625151105#gid=1625151105)
